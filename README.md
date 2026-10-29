@@ -15,4 +15,8 @@ I build small, polished tools end to end: mobile apps, web apps, embedded firmwa
 | [wifi-sensing](https://github.com/Caylipp/wifi-sensing) | Visualizing motion from Wi-Fi signal strength | Swift (CoreWLAN), Node.js, SSE |
 | [interactive-pca-biplot-case-study](https://github.com/Caylipp/interactive-pca-biplot-case-study) | Bachelor thesis case study: interactive PCA biplot | D3.js |
 
-**Tools I use:** TypeScript · React Native / Expo · Python · Swift · Kotlin · C++ (Arduino/ESP32) · PHP/Laravel · Cloudflare · GitHub Actions
+**Open source contributions**
+
+- [devonfw/IDEasy](https://github.com/devonfw/IDEasy): tool to automate developer environment setup (Java). [My pull requests](https://github.com/devonfw/IDEasy/pulls?q=is%3Apr+author%3ACaylipp), including MSI build scripting, Ruby installation support, a GC log analyzer and a cleanup commandlet.
+
+**Tools I use:** TypeScript · React Native / Expo · Java · Python · Swift · Kotlin · C++ (Arduino/ESP32) · PHP/Laravel · Cloudflare · GitHub Actions
