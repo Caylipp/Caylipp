@@ -10,7 +10,9 @@ I build small, polished tools end to end: mobile apps, web apps, embedded firmwa
 | [morse-trainer](https://github.com/Caylipp/morse-trainer) | Morse learning app with adaptive live decoder and low-latency audio | React Native (Expo), TypeScript |
 | [clash-royale-trainer](https://github.com/Caylipp/clash-royale-trainer) | Elixir-counting trainer with deterministic game simulation and API proxy | React Native, Cloudflare Workers |
 | [schlafmaske-lichtwecker](https://github.com/Caylipp/schlafmaske-lichtwecker) | Sunrise-alarm sleep mask, deep sleep and phone settings page | ESP32-C3, C++ |
+| [ablage](https://github.com/Caylipp/ablage) | Local-only clipboard history for iPhone with a custom keyboard | Swift, iOS extensions |
+| [gesten-swipe](https://github.com/Caylipp/gesten-swipe) | Hands-free scrolling of video feeds with head, eye and mouth gestures | Kotlin, MediaPipe, CameraX |
 | [wifi-sensing](https://github.com/Caylipp/wifi-sensing) | Visualizing motion from Wi-Fi signal strength | Swift (CoreWLAN), Node.js, SSE |
 | [interactive-pca-biplot-case-study](https://github.com/Caylipp/interactive-pca-biplot-case-study) | Bachelor thesis case study: interactive PCA biplot | D3.js |
 
-**Tools I use:** TypeScript · React Native / Expo · Python · Swift · C++ (Arduino/ESP32) · PHP/Laravel · Cloudflare · GitHub Actions
+**Tools I use:** TypeScript · React Native / Expo · Python · Swift · Kotlin · C++ (Arduino/ESP32) · PHP/Laravel · Cloudflare · GitHub Actions
